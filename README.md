@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| CVE-2021-26272   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
 
